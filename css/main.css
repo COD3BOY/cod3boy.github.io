@@ -42,12 +42,16 @@ ul.posts li {
     list-style: none;
 }
 .share-page {
+    $spacing-unit:     32px;
+    $secondary-color:   #16a085;
+    $light-color:       #efefef;
+
     text-align: center;
-    background: #16a085;
-    color: #fff;
+    background: $secondary-color;
+    color: $light-color;
     padding: 8px 15px;
     border-radius: 5px;
-    margin: 1.5 * 32px;
+    margin: 1.5 * $spacing-unit 0;
 
     a {
         font-weight: 700;
