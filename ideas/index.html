@@ -3,7 +3,7 @@ layout: default
 title: Idea Bank
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="posts">
+	<ul class="ideas">
 
 	  {% for ideas in site.ideas %}
 	    <li><span>{{ ideas.date | date_to_string }}</span> » <a href="{{ ideas.url }}" title="{{ ideas.title }}">{{ ideas.title }}</a></li>
