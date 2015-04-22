@@ -1,7 +1,7 @@
 ---
-layout: ideas
+layout: idea
 title: "Ride sharing app"
-date: 2014-04-30
+date: 2015-04-22
 ---
 
 Ride sharing - Car pooling app 
