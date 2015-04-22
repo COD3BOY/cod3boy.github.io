@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: ideas
 title: "Ride sharing app"
 date: 2014-04-30
 ---
