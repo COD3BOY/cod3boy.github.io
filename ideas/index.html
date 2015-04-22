@@ -10,6 +10,6 @@ title: Idea Bank
 	<ul class="ideas">
 
 	  {% for idea in site.ideas %}
-	    <li><span>{{ idea.date | date_to_string }}</span> » <a href="{{ idea.url }}" title="{{ idea.title }}">{{ idea.title }}</a></li>
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
