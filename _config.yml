@@ -1,9 +1,7 @@
 # Build settings
 markdown: kramdown
 highlighter: rouge
-gems:
-  - jemoji
-  
+
 # Site settings
 title: "Sanjay Nediyara"
 description: > # this means to ignore newlines until "email:"
