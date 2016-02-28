@@ -1,6 +1,6 @@
 # Build settings
 markdown: kramdown
-highlighter: Rouge
+highlighter: rouge
 gems:
   - jemoji
   
